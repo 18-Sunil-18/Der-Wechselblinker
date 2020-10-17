@@ -1,5 +1,4 @@
 # Der-Wechselblinker
-Aufgabe: Zwei Leuchtdioden sollen abwechselnd blinken.
 
 Aufgabe: Zwei Leuchtdioden sollen abwechselnd blinken.
 
